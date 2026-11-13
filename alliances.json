@@ -1,0 +1,18 @@
+{
+  "2024": {
+    "NDA": ["BJP", "JD(U)", "TDP", "SHS", "LJP(RV)", "JD(S)", "RLD", "JSP", "AGP", "HAM", "SKM", "ADAL"],
+    "INDIA": ["INC", "SP", "AITC", "DMK", "SHSUBT", "NCP(SP)", "CPI(M)", "RJD", "AAP", "CPI", "JMM", "IUML", "JKNC", "VCK"]
+  },
+  "2019": {
+    "NDA": ["BJP", "SHS", "JD(U)", "LJP", "SAD", "ADAL", "AGP", "AJSU", "NDPP"],
+    "UPA": ["INC", "DMK", "NCP", "IUML", "JKNC", "JMM", "RJD", "JD(S)"]
+  },
+  "2014": {
+    "NDA": ["BJP", "SHS", "TDP", "LJP", "SAD", "RLSP", "ADAL", "SWP", "PMK"],
+    "UPA": ["INC", "NCP", "RJD", "JMM", "IUML", "KEC(M)"]
+  },
+  "2009": {
+    "UPA": ["INC", "DMK", "AITC", "NCP", "JKNC", "IUML", "JMM"],
+    "NDA": ["BJP", "JD(U)", "SHS", "SAD", "RLD", "AGP"]
+  }
+}
